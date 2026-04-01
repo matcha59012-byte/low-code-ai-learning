@@ -25,3 +25,4 @@ def calculate_annual_salary(monthly_salary, bonus=0):
 print(calculate_annual_salary(10000,5000))
 print(calculate_annual_salary(20000))
 
+
